@@ -1,4 +1,6 @@
 # churnKeras
 Deep Learning With Keras To Predict Customer Churn
 
-Using Keras to predict customer churn based on the IBM Watson Telco Customer Churn dataset.
+I used customer behavior data to improve customer retention by Using Keras to predict customer churn based on Telco Customer Churn dataset.
+
+
